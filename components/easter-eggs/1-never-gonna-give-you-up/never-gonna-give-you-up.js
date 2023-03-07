@@ -20,7 +20,7 @@ export default function NeverGonnaGiveYouUp(){
 	
 
 	return (
-		<div className="cont flex flex-col gap-2 p-4">
+		<div className="cont flex flex-col gap-2">
 			<span>What's the opposite of</span>
 			<span>1) Always</span> 
 			<span>2) Coming</span> 

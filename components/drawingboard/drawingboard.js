@@ -47,7 +47,7 @@ export default function DrawingBoard(){
 	},[])
 
 	return (
-		<div className="sm:col-span-2 col-span-1 flex flex-col row-span-2 cont">
+		<div className="cont p-0 sm:col-span-2 col-span-1 flex flex-col row-span-2">
 			{/*Drawing board controls*/}
 			<div className="flex justify-between py-2 sm:px-4 px-2 justify-center items-center">
 				<span>Drawing Board</span>

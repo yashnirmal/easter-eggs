@@ -1,4 +1,4 @@
-export default function  EasterNeverGonnaGiveYouUp(props){
+export default function  Easter(props){
 
 	return (
 		<div className="w-[100vw] h-[100vh] fixed top-0 left-0 z-20 overflow-hidden bg-black/80">
