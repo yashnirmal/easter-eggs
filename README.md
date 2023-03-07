@@ -1,4 +1,4 @@
-/home/yash/Downloads/imageedit_2_8943420812.gif# Welcome to Easter Eggs!
+![Screenshot from 2023-03-07 12-22-47](https://user-images.githubusercontent.com/78169683/223427467-3586b4f6-7c42-4028-90e4-c496bbf3890a.png)
 
 ## Visit here : https://eastereggs.vercel.app/
 
@@ -72,6 +72,8 @@ There are 2 ways you can contribute to the project
 3. Create new folder name ```your_easter_egg_number-/your-easter-egg-name```
 4. Go inside that folder
 5. If your Easter egg require you to box like this
+![imageedit_2_8943420812](https://user-images.githubusercontent.com/78169683/223427721-4bf17376-84e8-43f6-81a3-8a6ac61510ff.gif)
+
 
 	then make a js file ```your-easter-egg-name.js```
 6. Then to make a file containing your easter egg name ```easter.js``` 
