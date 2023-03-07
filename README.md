@@ -1,38 +1,87 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+/home/yash/Downloads/imageedit_2_8943420812.gif# Welcome to Easter Eggs!
 
-## Getting Started
+## Visit here : https://eastereggs.vercel.app/
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- [Welcome to Easter Eggs](#welcome)
+- [Tech Stack](#tech-stack)
+- [How to Contribute](#how-to-contribute)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<a name="welcome"></a>
+## Welcome to LinksHub 👋
+Easter Eggs is a website where you can find easter eggs of all kinds.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<a name="tech-stack"></a>
+## Tech stack 💻
 
-## Learn More
+![Next.js](https://img.shields.io/badge/Next.js-7c3aed?style=for-the-badge&logo=next.js&logoColor=white)
+![tailwind css](https://img.shields.io/badge/tailwind_css-7c3aed?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-To learn more about Next.js, take a look at the following resources:
+<a name="how-to-contribute"></a>
+## How to Contribute ✨
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+There are 2 ways you can contribute to the project
+1. Adding new feature or solving bugs
+2. Adding new Easter eggs
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Adding new feature or solving bugs🌟
 
-## Deploy on Vercel
+1. Fork the project
+   
+2. Clone the project to run on your local machine using the following command
+   
+   ```sh
+   git clone https://github.com/<your_github_username>/easter-eggs.git
+   ```
+3. Get into the root directory
+   
+   ```sh
+   cd easter-eggs
+   ```
+4. Install all dependencies by running
+   
+   ```sh
+   npm install
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+5. Create your branch 
+    ```sh
+   git checkout -b <your_branch_name>
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+6. To run and view the application on localhost
+    ```sh
+   npm run dev
+   ```
+7. Push your changes into your branch
+   
+    ```sh
+   git push origin <your_branch_name>
+   ```
+
+8. Create a Pull Request
+
+### Adding new Easter egg 🥚
+
+1. Follow step (1 to 5) from above
+2. Inside the ```components/easter-eggs/``` folder you can add you easter egg
+3. Create new folder name ```your_easter_egg_number-/your-easter-egg-name```
+4. Go inside that folder
+5. If your Easter egg require you to box like this
+
+	then make a js file ```your-easter-egg-name.js```
+6. Then to make a file containing your easter egg name ```easter.js``` 
+7. You can check and use [1-never-gonna-give-you-up](https://github.com/yashnirmal/easter-eggs/tree/main/components/easter-eggs/1-never-gonna-give-you-up) as an example
+8. If your easter egg require use of something written in the search bar you can use context api for that. That too is shown in [1-never-gonna-give-you-up](https://github.com/yashnirmal/easter-eggs/tree/main/components/easter-eggs/1-never-gonna-give-you-up)
+9. After adding the easter eggs, push your changes into your branch
+   
+    ```sh
+   git push origin <your_branch_name>
+   ```
+
+10. Finally, create a Pull Request
+
