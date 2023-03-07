@@ -71,14 +71,14 @@ There are 2 ways you can contribute to the project
 2. Inside the ```components/easter-eggs/``` folder you can add you easter egg
 3. Create new folder name ```your_easter_egg_number-/your-easter-egg-name```
 4. Go inside that folder
-5. If your Easter egg require you to box like this
+5. Your Easter egg will require a box like this
 ![imageedit_2_8943420812](https://user-images.githubusercontent.com/78169683/223427721-4bf17376-84e8-43f6-81a3-8a6ac61510ff.gif)
 
 
-	then make a js file ```your-easter-egg-name.js```
+	For that make a js file ```your-easter-egg-name.js```
 6. Then to make a file containing your easter egg name ```easter.js``` 
-7. You can check and use [1-never-gonna-give-you-up](https://github.com/yashnirmal/easter-eggs/tree/main/components/easter-eggs/1-never-gonna-give-you-up) as an example
-8. If your easter egg require use of something written in the search bar you can use context api for that. That too is shown in [1-never-gonna-give-you-up](https://github.com/yashnirmal/easter-eggs/tree/main/components/easter-eggs/1-never-gonna-give-you-up)
+7. You can check and use [demo folder](https://github.com/yashnirmal/easter-eggs/tree/main/components/easter-eggs/0-demo) as an example. You can also copy paste this [demo folder](https://github.com/yashnirmal/easter-eggs/tree/main/components/easter-eggs/0-demo) for your easter egg and make required changes
+8. If your easter egg require use of something written in the search bar you can use context api for that. That too is shown in [demo folder](https://github.com/yashnirmal/easter-eggs/tree/main/components/easter-eggs/0-demo)
 9. After adding the easter eggs, push your changes into your branch
    
     ```sh
