@@ -1,4 +1,6 @@
-export default function  EasterNeverGonnaGiveYouUp(props){
+
+
+export default function Easter(props){
 
 	return (
 		<div className="w-[100vw] h-[100vh] fixed top-0 left-0 z-20 overflow-hidden bg-black/80">
@@ -7,10 +9,9 @@ export default function  EasterNeverGonnaGiveYouUp(props){
 					&#10005;
 				</div>
 			</div>
-			<div className="w-full h-full flex items-center justify-center">
-				<video width="320" height="240" autoPlay loop>
-				  <source src="./data/rick-roll.mp4" type="video/mp4" />
-				</video>
+			
+			<div>
+				slaps
 			</div>
 		</div>
 	)

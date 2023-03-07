@@ -1,7 +1,7 @@
 import DrawingBoard from "../drawingboard/drawingboard";
 import NeverGonnaGiveYouUp from "../easter-eggs/1-never-gonna-give-you-up/never-gonna-give-you-up"
-import Demo0 from "../easter-eggs/0-demo/demo";
-import Demo00 from "../easter-eggs/00-demo/demo";
+import Demo from "../easter-eggs/0-demo/your-easter-name";
+import WillSmithSlap from "../easter-eggs/2-willsmith-slap/willsmith-slap"
 
 export default function MainContainer(){
 	return (
@@ -9,8 +9,8 @@ export default function MainContainer(){
 			<div className="w-[90%] grid md:grid-cols-3 sm:grid-cols-2 grid cols-1 row-span-2 gap-6 text-xl">
 				<DrawingBoard />
 				<NeverGonnaGiveYouUp />
-				<Demo0 />
-				<Demo00 />
+				<WillSmithSlap />
+				<Demo />
 			</div>
 		</div>
 	)
