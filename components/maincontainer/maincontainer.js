@@ -10,7 +10,6 @@ export default function MainContainer(){
 				<NeverGonnaGiveYouUp />
 				<Demo />
 				<Demo />
-				
 			</div>
 		</div>
 	)
