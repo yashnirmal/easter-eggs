@@ -11,7 +11,7 @@
 
 
 <a name="welcome"></a>
-## Welcome to LinksHub 👋
+## Welcome to Easter Eggs 👋
 Easter Eggs is a website where you can find easter eggs of all kinds.
 
 
